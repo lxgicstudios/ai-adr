@@ -1,5 +1,5 @@
 {
-  "name": "ai-adr",
+  "name": "@lxgicstudios/ai-adr",
   "version": "1.0.0",
   "description": "AI-powered Architecture Decision Record generator - document design decisions with GPT",
   "main": "dist/index.js",
