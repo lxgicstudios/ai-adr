@@ -15,43 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "adr",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
     "architecture",
-    "architecture-decision-record",
-    "automation",
-    "claude",
-    "cli",
-    "design",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
+    "adr",
     "documentation",
+    "design",
     "engineering",
-    "generative-ai",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
+    "AI-powered",
+    "AI-optimized",
     "performance",
-    "performance-optimization",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-adr#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-adr#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-adr"
+    "url": "https://github.com/lxgicstudios/ai-adr"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-adr/issues"
+    "url": "https://github.com/lxgicstudios/ai-adr/issues"
   },
   "funding": {
     "type": "github",
