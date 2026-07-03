@@ -37,7 +37,10 @@
     "adr",
     "tech-decisions",
     "documentation",
-    "site-architecture"
+    "site-architecture",
+    "technical-seo",
+    "seo-audit",
+    "page-speed"
   ],
   "license": "MIT",
   "main": "dist/index.js",
